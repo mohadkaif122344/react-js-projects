@@ -48,9 +48,7 @@ http://localhost:5173
 
 
 ### screenshorts
-<Screenshot 2025-09-06 205103.png>
-<Screenshot 2025-09-06 205019.png>
-<Screenshot 2025-09-06 205006.png>
+![Screenshot](<Screenshot 2025-09-06 205103.png>)
 
 
 
