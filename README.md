@@ -32,11 +32,14 @@ https://github.com/mohadkaif122344/react-js-projects/tree/main/navigation
 
 
 
-  ---
-✨ More projects will be added to this collection for practice and learning.
-
 ## 5. login and signup page
 
 https://github.com/mohadkaif122344/react-js-projects/tree/main/Login_Page    
 
   A simple login page built with React, demonstrating form handling, input validation, and state management.
+
+
+
+
+ ---
+✨ More projects will be added to this collection for practice and learning.
