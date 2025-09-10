@@ -44,7 +44,8 @@ http://localhost:5173
 
 screenshorts
 
-<Screenshot 2025-09-06 204401.png>
+<img width="1880" height="959" alt="image" src="https://github.com/user-attachments/assets/050f8e7c-0f47-4bd2-b5da-e1b042efe8d3" />
+
 
 
 
