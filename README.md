@@ -1,11 +1,11 @@
-1. Increment and decrenet
+# 1. Increment and decrenet
 
 
-2. Form fill up
+# 2. Form fill up
 
 
-3. Rock paper scissors
+# 3. Rock paper scissors
 
-4. Navigation bar
+# 4. Navigation bar
 
-5. 
+# 5. login and signup page
