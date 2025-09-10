@@ -30,6 +30,11 @@ https://github.com/mohadkaif122344/react-js-projects/tree/main/navigation
 
   A navigation bar project with links and routing, useful for understanding React Router and component structure.
 
+
+
+  ---
+✨ More projects will be added to this collection for practice and learning.
+
 ## 5. login and signup page
 
 https://github.com/mohadkaif122344/react-js-projects/tree/main/Login_Page    
