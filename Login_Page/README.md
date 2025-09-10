@@ -6,17 +6,24 @@ This project runs locally on `http://localhost:5173`.
 ---
 
 ## 🚀 Features
+
 - Built with **Vite + React** .
+- 
 - Simple **username & password form**.
+- 
 - Basic **form validation** .
+- 
 - Styled with **CSS** .
 
 
 ---
 
 ## 🛠️ Tech Stack
+
 - **Vite** (Build tool)
+- 
 - **React.js** (Frontend library)
+- 
 - **CSS** (Styling)
 
 ---
@@ -45,7 +52,8 @@ This project runs locally on `http://localhost:5173`.
    http://localhost:5173   
 
 📸 Screenshots
-<Screenshot 2025-09-06 201840.png>
+<img width="1884" height="964" alt="image" src="https://github.com/user-attachments/assets/2c395577-7f78-4b01-ba1d-5b9d7ebaf2a3" />
+
 
 
 
