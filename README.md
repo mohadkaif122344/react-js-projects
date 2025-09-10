@@ -5,12 +5,12 @@ https://github.com/mohadkaif122344/react-js-projects/tree/main/Increment%20and%2
 
 # 2. Form fill up
 
-[Folder Name](https://github.com/username/repo-name/tree/main/folder-name)
+(https://github.com/mohadkaif122344/react-js-projects/tree/main/rock-paper-sciss)
 
 
 # 3. Rock paper scissors
 
-[Folder Name](https://github.com/username/repo-name/tree/main/folder-name)
+
 
 # 4. Navigation bar
 
