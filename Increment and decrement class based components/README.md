@@ -29,7 +29,8 @@ This project demonstrates **Increment** and **Decrement** functionality.
    
    cd react-js-projects
    
-   cd counter-class-based
+   cd Increment and decrement class based components
+
 
 2.Install dependencies
 
