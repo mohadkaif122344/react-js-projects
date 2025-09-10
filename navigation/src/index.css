@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root { --transition: 200ms; }
+* { transition: background-color var(--transition) ease, color var(--transition) ease; } */
