@@ -3,6 +3,15 @@
 This repository contains multiple React.js mini-projects for learning and practice.  
 Each folder is a separate project with its own code and setup.
 
+## 🔗 Clone Repository
+
+Clone this repository once:
+
+git clone https://github.com/mohadkaif122344/react-js-projects.git
+
+cd react-js-projects
+
+
 ## 1. Increment and decrenet
 
 
