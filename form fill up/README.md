@@ -22,11 +22,15 @@ This project runs locally and allows users to enter their details in a form.
 
 ## 📂 Clone & Setup
 
-1. **Clone the repository**
-   
-   git clone https://github.com/mohadkaif122344/form fill up.git
+# Clone your main repository
+git clone https://github.com/mohadkaif122344/react-js-projects.git
 
-   cd form fill up
+
+cd react-js-projects
+
+
+cd Login_Page
+
 
  
 
