@@ -52,6 +52,7 @@ http://localhost:5173
 
 
 
+<img width="1909" height="1010" alt="image" src="https://github.com/user-attachments/assets/0d0a8f98-a24c-4bec-864b-13bdc48f5a27" />
 
 
 
