@@ -1,7 +1,7 @@
 # 1. Increment and decrenet
 
-[Folder Name](https://github.com/username/repo-name/tree/main/)
 
+https://github.com/mohadkaif122344/react-js-projects/tree/main/Increment%20and%20decrement%20class%20based%20components
 
 # 2. Form fill up
 
