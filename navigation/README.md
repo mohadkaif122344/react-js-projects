@@ -54,6 +54,7 @@ http://localhost:5173
 
 <img width="1909" height="1010" alt="image" src="https://github.com/user-attachments/assets/0d0a8f98-a24c-4bec-864b-13bdc48f5a27" />
 
+<img width="1888" height="965" alt="image" src="https://github.com/user-attachments/assets/46f2fc78-e2f3-41e1-a11a-e9564a7516e0" />
 
 
 
