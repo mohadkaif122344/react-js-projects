@@ -45,4 +45,4 @@ This project runs locally and allows users to play against the computer.
 
 📸 Screenshots
 
-<Screenshot 2025-09-06 200132.png>
+![Screenshot](<Screenshot 2025-09-06 200132.png>)
