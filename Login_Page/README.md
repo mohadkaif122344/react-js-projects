@@ -30,12 +30,14 @@ This project runs locally on `http://localhost:5173`.
 
 ## 📂 Project Setup
 
-1. **Clone the repository**
-   
-    git clone https://github.com/mohadkaif122344/Login_Page.git
+# Clone your main repository
+git clone https://github.com/mohadkaif122344/react-js-projects.git
 
-   cd login-page
- 
+cd react-js-projects
+
+
+cd Login_Page
+
 
 2. Install dependencies
 
