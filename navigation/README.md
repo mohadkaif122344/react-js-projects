@@ -26,7 +26,10 @@ This project includes **React Router DOM** for multiple pages (Home, About, Cont
 
 1. **Clone the repository**
    
-   git clone https://github.com/mohadkaif122344/navigation.git
+  git clone --no-checkout https://github.com/mohadkaif122344/react-js-projects.git
+  
+cd react-js-projects
+
    
    cd navigation
 
