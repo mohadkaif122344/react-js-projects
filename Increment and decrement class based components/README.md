@@ -25,20 +25,23 @@ This project demonstrates **Increment** and **Decrement** functionality.
 
 1. **Clone the repository**
    
-   git clone https://github.com/mohadkaif122344/counter-class-based.git
+   git clone https://github.com/mohadkaif122344/react-js-projects.git
+   
+   cd react-js-projects
+   
    cd counter-class-based
 
-Install dependencies
+2.Install dependencies
 
 npm install
 
 
-Run the project locally
+3.Run the project locally
 
 npm run dev
 
 
-Your app will be available at:
+4.Your app will be available at:
 
 http://localhost:5173
 
