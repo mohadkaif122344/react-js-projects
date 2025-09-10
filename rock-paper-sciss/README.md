@@ -23,20 +23,19 @@ This project runs locally and allows users to play against the computer.
 
 ## 📂 Project Setup
 
-1. **Clone the repository**
-  
-   git clone https://github.com/mohadkaif122344/rock-paper-sciss.git
 
-   cd rock-paper-sciss
+1.git clone https://github.com/mohadkaif122344/react-js-projects.git
 
-2.Install dependencies
+cd react-js-projects
 
-   npm install
+cd rock-paper-sciss
 
 
-3.Run the project locally
+2.npm install
 
-  npm statrt
+
+3.npm start
+
 
 
 4.Your app will be available at:
