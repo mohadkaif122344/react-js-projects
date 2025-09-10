@@ -45,7 +45,8 @@ This project runs locally and allows users to enter their details in a form.
    http://localhost:3000   
 
 📸 Screenshots
-<Screenshot 2025-09-06 203601.png>
+
+<img width="1852" height="981" alt="image" src="https://github.com/user-attachments/assets/4ee8e93c-fe7f-44fb-8477-f650120ba88d" />
 
 
 
